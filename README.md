@@ -3,6 +3,7 @@
 [![CI](https://github.com/sajidkabir/metar-decoder/actions/workflows/ci.yml/badge.svg)](https://github.com/sajidkabir/metar-decoder/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23077752.svg)](https://doi.org/10.5281/zenodo.23077752)
 
 A METAR decoder written in pure Python. It takes a raw aviation weather
 report, the kind pilots and dispatchers read before every flight, and turns
@@ -234,6 +235,14 @@ not change a decoded value without explaining why in the PR.
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md).
+
+## Citation
+
+If you use this project in research, please cite the archived release:
+
+Sajid Kabir Saji (2026). metar-decoder (v1.0.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23077753
+
+The concept DOI https://doi.org/10.5281/zenodo.23077752 always resolves to the latest version.
 
 ## License
 
